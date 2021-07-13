@@ -10,7 +10,7 @@
 				<forestSparseBelow>1100</forestSparseBelow>
 				<forestDenseAbove>1500</forestDenseAbove>
 				<mountainsSemiSnowyBelow>10</mountainsSemiSnowyBelow>
-				<impassableSemiSnowyBelow>20</impassableSemiSnowyBelow>
+				<impassableSemiSnowyBelow>25</impassableSemiSnowyBelow>
 				<mountainsSnowyBelow>-5</mountainsSnowyBelow>
 				<impassableSnowyBelow>0</impassableSnowyBelow>
 				<materialRandomRotation>false</materialRandomRotation>
@@ -33,7 +33,7 @@
 				<forestDenseAbove>1500</forestDenseAbove>
 				<snowpilesBelow>-15</snowpilesBelow>
 				<mountainsSemiSnowyBelow>10</mountainsSemiSnowyBelow>
-				<impassableSemiSnowyBelow>20</impassableSemiSnowyBelow>
+				<impassableSemiSnowyBelow>25</impassableSemiSnowyBelow>
 				<mountainsSnowyBelow>-5</mountainsSnowyBelow>
 				<impassableSnowyBelow>0</impassableSnowyBelow>
 				<mountainsFullySnowyBelow>-12</mountainsFullySnowyBelow>
@@ -55,7 +55,7 @@
 				<uniqueHills>true</uniqueHills>
 				<forestDenseAbove>3500</forestDenseAbove>
 				<mountainsSemiSnowyBelow>10</mountainsSemiSnowyBelow>
-				<impassableSemiSnowyBelow>20</impassableSemiSnowyBelow>
+				<impassableSemiSnowyBelow>25</impassableSemiSnowyBelow>
 				<materialRandomRotation>false</materialRandomRotation>
 				<smallHillSizeMultiplier>1.5</smallHillSizeMultiplier>
 				<largeHillSizeMultiplier>2</largeHillSizeMultiplier>
@@ -74,7 +74,7 @@
 				<forestDenseAbove>1800</forestDenseAbove>
 				<forestSparseBelow>1100</forestSparseBelow>
 				<mountainsSemiSnowyBelow>10</mountainsSemiSnowyBelow>
-				<impassableSemiSnowyBelow>20</impassableSemiSnowyBelow>
+				<impassableSemiSnowyBelow>25</impassableSemiSnowyBelow>
 				<materialRandomRotation>false</materialRandomRotation>
 				<smallHillSizeMultiplier>1.5</smallHillSizeMultiplier>
 				<largeHillSizeMultiplier>2</largeHillSizeMultiplier>
@@ -93,7 +93,7 @@
 				<forestDenseAbove>500</forestDenseAbove>
 				<forestSparseBelow>300</forestSparseBelow>
 				<mountainsSemiSnowyBelow>10</mountainsSemiSnowyBelow>
-				<impassableSemiSnowyBelow>20</impassableSemiSnowyBelow>
+				<impassableSemiSnowyBelow>25</impassableSemiSnowyBelow>
 				<mountainsSnowyBelow>-5</mountainsSnowyBelow>
 				<impassableSnowyBelow>0</impassableSnowyBelow>
 				<mountainsFullySnowyBelow>-12</mountainsFullySnowyBelow>
@@ -113,7 +113,7 @@
 			<li Class="BiomesKit.BiomesKitControls">
 				<uniqueHills>true</uniqueHills>
 				<mountainsSemiSnowyBelow>10</mountainsSemiSnowyBelow>
-				<impassableSemiSnowyBelow>20</impassableSemiSnowyBelow>
+				<impassableSemiSnowyBelow>25</impassableSemiSnowyBelow>
 				<mountainsSnowyBelow>-5</mountainsSnowyBelow>
 				<impassableSnowyBelow>0</impassableSnowyBelow>
 				<mountainsFullySnowyBelow>-12</mountainsFullySnowyBelow>
@@ -138,7 +138,7 @@
 				<forestDenseAbove>1500</forestDenseAbove>
 				<snowpilesBelow>-15</snowpilesBelow>
 				<mountainsSemiSnowyBelow>10</mountainsSemiSnowyBelow>
-				<impassableSemiSnowyBelow>20</impassableSemiSnowyBelow>
+				<impassableSemiSnowyBelow>25</impassableSemiSnowyBelow>
 				<mountainsSnowyBelow>-5</mountainsSnowyBelow>
 				<impassableSnowyBelow>0</impassableSnowyBelow>
 				<mountainsFullySnowyBelow>-12</mountainsFullySnowyBelow>
@@ -178,7 +178,7 @@
 				<forested>true</forested>
 				<uniqueHills>true</uniqueHills>
 				<mountainsSemiSnowyBelow>10</mountainsSemiSnowyBelow>
-				<impassableSemiSnowyBelow>20</impassableSemiSnowyBelow>
+				<impassableSemiSnowyBelow>25</impassableSemiSnowyBelow>
 				<mountainsSnowyBelow>-5</mountainsSnowyBelow>
 				<impassableSnowyBelow>0</impassableSnowyBelow>
 				<materialRandomRotation>false</materialRandomRotation>
@@ -198,7 +198,7 @@
 				<uniqueHills>true</uniqueHills>
 				<snowpilesBelow>-15</snowpilesBelow>
 				<mountainsSemiSnowyBelow>10</mountainsSemiSnowyBelow>
-				<impassableSemiSnowyBelow>20</impassableSemiSnowyBelow>
+				<impassableSemiSnowyBelow>25</impassableSemiSnowyBelow>
 				<mountainsSnowyBelow>-5</mountainsSnowyBelow>
 				<impassableSnowyBelow>0</impassableSnowyBelow>
 				<mountainsFullySnowyBelow>-12</mountainsFullySnowyBelow>
@@ -219,7 +219,7 @@
 				<forested>true</forested>
 				<uniqueHills>true</uniqueHills>
 				<mountainsSemiSnowyBelow>10</mountainsSemiSnowyBelow>
-				<impassableSemiSnowyBelow>20</impassableSemiSnowyBelow>
+				<impassableSemiSnowyBelow>25</impassableSemiSnowyBelow>
 				<materialRandomRotation>false</materialRandomRotation>
 				<forestDenseAbove>2500</forestDenseAbove>
 				<smallHillSizeMultiplier>1.5</smallHillSizeMultiplier>
