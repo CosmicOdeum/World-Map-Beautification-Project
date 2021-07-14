@@ -37,7 +37,9 @@
 				<mountainsSnowyBelow>-5</mountainsSnowyBelow>
 				<impassableSnowyBelow>0</impassableSnowyBelow>
 				<mountainsFullySnowyBelow>-12</mountainsFullySnowyBelow>
-				<impassableFullySnowyBelow>-12</impassableFullySnowyBelow>
+				<impassableVerySnowyBelow>-12</impassableVerySnowyBelow>
+				<mountainsVerySnowyBelow>-15</mountainsVerySnowyBelow>
+				<impassableFullySnowyBelow>-15</impassableFullySnowyBelow>
 				<materialRandomRotation>false</materialRandomRotation>
 				<smallHillSizeMultiplier>1.5</smallHillSizeMultiplier>
 				<largeHillSizeMultiplier>2</largeHillSizeMultiplier>
@@ -97,7 +99,9 @@
 				<mountainsSnowyBelow>-5</mountainsSnowyBelow>
 				<impassableSnowyBelow>0</impassableSnowyBelow>
 				<mountainsFullySnowyBelow>-12</mountainsFullySnowyBelow>
-				<impassableFullySnowyBelow>-12</impassableFullySnowyBelow>
+				<impassableVerySnowyBelow>-12</impassableVerySnowyBelow>
+				<mountainsVerySnowyBelow>-15</mountainsVerySnowyBelow>
+				<impassableFullySnowyBelow>-15</impassableFullySnowyBelow>
 				<materialRandomRotation>false</materialRandomRotation>
 				<smallHillSizeMultiplier>1.5</smallHillSizeMultiplier>
 				<largeHillSizeMultiplier>2</largeHillSizeMultiplier>
@@ -117,7 +121,9 @@
 				<mountainsSnowyBelow>-5</mountainsSnowyBelow>
 				<impassableSnowyBelow>0</impassableSnowyBelow>
 				<mountainsFullySnowyBelow>-12</mountainsFullySnowyBelow>
-				<impassableFullySnowyBelow>-12</impassableFullySnowyBelow>
+				<impassableVerySnowyBelow>-12</impassableVerySnowyBelow>
+				<mountainsVerySnowyBelow>-15</mountainsVerySnowyBelow>
+				<impassableFullySnowyBelow>-15</impassableFullySnowyBelow>
 				<materialRandomRotation>false</materialRandomRotation>
 				<smallHillSizeMultiplier>1.5</smallHillSizeMultiplier>
 				<largeHillSizeMultiplier>2</largeHillSizeMultiplier>
@@ -142,7 +148,9 @@
 				<mountainsSnowyBelow>-5</mountainsSnowyBelow>
 				<impassableSnowyBelow>0</impassableSnowyBelow>
 				<mountainsFullySnowyBelow>-12</mountainsFullySnowyBelow>
-				<impassableFullySnowyBelow>-12</impassableFullySnowyBelow>
+				<impassableVerySnowyBelow>-12</impassableVerySnowyBelow>
+				<mountainsVerySnowyBelow>-15</mountainsVerySnowyBelow>
+				<impassableFullySnowyBelow>-15</impassableFullySnowyBelow>
 				<materialRandomRotation>false</materialRandomRotation>
 				<smallHillSizeMultiplier>1.5</smallHillSizeMultiplier>
 				<largeHillSizeMultiplier>2</largeHillSizeMultiplier>
@@ -161,7 +169,9 @@
 				<mountainsSnowyBelow>-5</mountainsSnowyBelow>
 				<impassableSnowyBelow>0</impassableSnowyBelow>
 				<mountainsFullySnowyBelow>-12</mountainsFullySnowyBelow>
-				<impassableFullySnowyBelow>-12</impassableFullySnowyBelow>
+				<impassableVerySnowyBelow>-12</impassableVerySnowyBelow>
+				<mountainsVerySnowyBelow>-15</mountainsVerySnowyBelow>
+				<impassableFullySnowyBelow>-15</impassableFullySnowyBelow>
 				<materialRandomRotation>false</materialRandomRotation>
 				<smallHillSizeMultiplier>1.5</smallHillSizeMultiplier>
 				<largeHillSizeMultiplier>2</largeHillSizeMultiplier>
@@ -202,7 +212,9 @@
 				<mountainsSnowyBelow>-5</mountainsSnowyBelow>
 				<impassableSnowyBelow>0</impassableSnowyBelow>
 				<mountainsFullySnowyBelow>-12</mountainsFullySnowyBelow>
-				<impassableFullySnowyBelow>-12</impassableFullySnowyBelow>
+				<impassableVerySnowyBelow>-12</impassableVerySnowyBelow>
+				<mountainsVerySnowyBelow>-15</mountainsVerySnowyBelow>
+				<impassableFullySnowyBelow>-15</impassableFullySnowyBelow>
 				<materialRandomRotation>false</materialRandomRotation>
 				<smallHillSizeMultiplier>1.5</smallHillSizeMultiplier>
 				<largeHillSizeMultiplier>2</largeHillSizeMultiplier>
